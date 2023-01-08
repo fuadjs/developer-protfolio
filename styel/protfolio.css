@@ -71,7 +71,7 @@ main{
 }
 .section-title{
     text-align: center;
-    margin-bottom: 30px;
+    margin-bottom: 50px;
     font-weight: 700;
     font-size: 35px;
 }
@@ -93,7 +93,7 @@ main{
     font-size: 20px;
     color: #474747;
 }
-.What-i-do{
+.what-i-do{
     margin-top: 130px;  
 }
 .skills-container{
@@ -121,4 +121,35 @@ main{
     font-weight: 400;
     font-size: 16px;
     color: #757575;
+}
+.resume{
+    margin-top: 130px;
+}
+.resume-content{
+    display: flex;
+    gap: 24px;
+}
+.resume .title{
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 34px;
+    color: #474747;
+    margin-bottom: 10px;
+}
+.resume .sub-title{
+    font-weight: 600;
+    font-size: 20px;
+    color: #757575;
+    margin-bottom: 20px;
+}
+.resume .description{
+    color: #757575;
+}
+.resume-item{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.reasume-button{
+    margin-top: 50px;
+    text-align: center;
 }
